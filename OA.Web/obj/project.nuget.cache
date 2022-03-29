@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6RdFHUyt2ShxwXQxtKw5iSKrXYOEnmROTb626yk/8HvtSzJ0AUq8fHe1Na5oqbo2lh7d+zk4K0Y8BhrCL9P9rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Corion\\source\\repos\\OnionArchitecture\\OA.Web\\OA.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Corion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
