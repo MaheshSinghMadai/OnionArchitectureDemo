@@ -1,0 +1,12 @@
+C:\Users\Corion\source\repos\OnionArchitecture\OA.Repo\bin\Debug\netcoreapp3.1\OA.Repo.deps.json
+C:\Users\Corion\source\repos\OnionArchitecture\OA.Repo\bin\Debug\netcoreapp3.1\OA.Repo.dll
+C:\Users\Corion\source\repos\OnionArchitecture\OA.Repo\bin\Debug\netcoreapp3.1\OA.Repo.pdb
+C:\Users\Corion\source\repos\OnionArchitecture\OA.Repo\bin\Debug\netcoreapp3.1\OA.Data.dll
+C:\Users\Corion\source\repos\OnionArchitecture\OA.Repo\bin\Debug\netcoreapp3.1\OA.Data.pdb
+C:\Users\Corion\source\repos\OnionArchitecture\OA.Repo\obj\Debug\netcoreapp3.1\OA.Repo.csprojAssemblyReference.cache
+C:\Users\Corion\source\repos\OnionArchitecture\OA.Repo\obj\Debug\netcoreapp3.1\OA.Repo.AssemblyInfoInputs.cache
+C:\Users\Corion\source\repos\OnionArchitecture\OA.Repo\obj\Debug\netcoreapp3.1\OA.Repo.AssemblyInfo.cs
+C:\Users\Corion\source\repos\OnionArchitecture\OA.Repo\obj\Debug\netcoreapp3.1\OA.Repo.csproj.CoreCompileInputs.cache
+C:\Users\Corion\source\repos\OnionArchitecture\OA.Repo\obj\Debug\netcoreapp3.1\OA.Repo.csproj.CopyComplete
+C:\Users\Corion\source\repos\OnionArchitecture\OA.Repo\obj\Debug\netcoreapp3.1\OA.Repo.dll
+C:\Users\Corion\source\repos\OnionArchitecture\OA.Repo\obj\Debug\netcoreapp3.1\OA.Repo.pdb
