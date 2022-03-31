@@ -1,0 +1,14 @@
+C:\Users\Corion\source\repos\MaheshNBIT\MVCApp-master\MVC.Service\bin\Debug\netcoreapp3.1\MVC.Service.deps.json
+C:\Users\Corion\source\repos\MaheshNBIT\MVCApp-master\MVC.Service\bin\Debug\netcoreapp3.1\MVC.Service.dll
+C:\Users\Corion\source\repos\MaheshNBIT\MVCApp-master\MVC.Service\bin\Debug\netcoreapp3.1\MVC.Service.pdb
+C:\Users\Corion\source\repos\MaheshNBIT\MVCApp-master\MVC.Service\bin\Debug\netcoreapp3.1\MVC.Data.dll
+C:\Users\Corion\source\repos\MaheshNBIT\MVCApp-master\MVC.Service\bin\Debug\netcoreapp3.1\MVC.Repo.dll
+C:\Users\Corion\source\repos\MaheshNBIT\MVCApp-master\MVC.Service\bin\Debug\netcoreapp3.1\MVC.Repo.pdb
+C:\Users\Corion\source\repos\MaheshNBIT\MVCApp-master\MVC.Service\bin\Debug\netcoreapp3.1\MVC.Data.pdb
+C:\Users\Corion\source\repos\MaheshNBIT\MVCApp-master\MVC.Service\obj\Debug\netcoreapp3.1\MVC.Service.csprojAssemblyReference.cache
+C:\Users\Corion\source\repos\MaheshNBIT\MVCApp-master\MVC.Service\obj\Debug\netcoreapp3.1\MVC.Service.AssemblyInfoInputs.cache
+C:\Users\Corion\source\repos\MaheshNBIT\MVCApp-master\MVC.Service\obj\Debug\netcoreapp3.1\MVC.Service.AssemblyInfo.cs
+C:\Users\Corion\source\repos\MaheshNBIT\MVCApp-master\MVC.Service\obj\Debug\netcoreapp3.1\MVC.Service.csproj.CoreCompileInputs.cache
+C:\Users\Corion\source\repos\MaheshNBIT\MVCApp-master\MVC.Service\obj\Debug\netcoreapp3.1\MVC.Service.csproj.CopyComplete
+C:\Users\Corion\source\repos\MaheshNBIT\MVCApp-master\MVC.Service\obj\Debug\netcoreapp3.1\MVC.Service.dll
+C:\Users\Corion\source\repos\MaheshNBIT\MVCApp-master\MVC.Service\obj\Debug\netcoreapp3.1\MVC.Service.pdb

@@ -1,9 +1,0 @@
-C:\Users\Corion\source\repos\OnionArchitecture\OA.Data\bin\Debug\netcoreapp3.1\OA.Data.deps.json
-C:\Users\Corion\source\repos\OnionArchitecture\OA.Data\bin\Debug\netcoreapp3.1\OA.Data.dll
-C:\Users\Corion\source\repos\OnionArchitecture\OA.Data\bin\Debug\netcoreapp3.1\OA.Data.pdb
-C:\Users\Corion\source\repos\OnionArchitecture\OA.Data\obj\Debug\netcoreapp3.1\OA.Data.csprojAssemblyReference.cache
-C:\Users\Corion\source\repos\OnionArchitecture\OA.Data\obj\Debug\netcoreapp3.1\OA.Data.AssemblyInfoInputs.cache
-C:\Users\Corion\source\repos\OnionArchitecture\OA.Data\obj\Debug\netcoreapp3.1\OA.Data.AssemblyInfo.cs
-C:\Users\Corion\source\repos\OnionArchitecture\OA.Data\obj\Debug\netcoreapp3.1\OA.Data.csproj.CoreCompileInputs.cache
-C:\Users\Corion\source\repos\OnionArchitecture\OA.Data\obj\Debug\netcoreapp3.1\OA.Data.dll
-C:\Users\Corion\source\repos\OnionArchitecture\OA.Data\obj\Debug\netcoreapp3.1\OA.Data.pdb
